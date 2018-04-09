@@ -45,7 +45,7 @@ mvn clean install -DskipTests (to ignore/ skip junits)
 
 3. Run the Application
 ```
-Run the application, by adding the main class to Run Configuration.
+Run the application, by adding the main class (BarrenLandProcessor.class) to Run Configuration.
 ```
  
 ### Built With
